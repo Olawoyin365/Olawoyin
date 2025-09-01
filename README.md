@@ -1,4 +1,3 @@
-# Olawoyin
 <!-- PROFILE HEADER -->
 <h1 align="center">Ibrahim Olawoyin — Backend Engineer | SaaS & Identity | Builder of CareConnect</h1>
 <p align="center">
