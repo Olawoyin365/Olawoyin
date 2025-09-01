@@ -1,5 +1,7 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Ibrahim Olawoyin — Backend Engineer | SaaS & Identity | Builder of CareConnect</h1>
+<h1 align="center">Ibrahim Olawoyin</h1>
+<p align="center">
+<h1 align="center">Backend Engineer | SaaS & Identity | Builder of CareConnect</h1>
 <p align="center">
   <strong>ProDev mindset • Telemedicine Innovator • Creative Storyteller</strong>
 </p>
